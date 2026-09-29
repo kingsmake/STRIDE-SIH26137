@@ -1,0 +1,4 @@
+algorithm,n_runs,cost_mean,cost_std,runtime_ms_mean,runtime_ms_std,optimality_gap_pct
+QPSO,10,61.8023,3.9706,960.198,41.982,4.39
+Classical PSO,10,63.5352,4.3323,934.867,39.729,7.32
+GA,10,64.7695,4.7757,907.586,36.596,9.4

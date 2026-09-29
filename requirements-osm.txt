@@ -1,0 +1,4 @@
+# Optional. Only needed to import a real road network via backend/osm_graph.py.
+# The API and the synthetic demo graph (backend/graph_data.py) do NOT need this.
+# Requires internet access (Nominatim + Overpass) the first time you fetch a place.
+osmnx==1.9.4

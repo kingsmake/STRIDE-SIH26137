@@ -1,0 +1,41 @@
+{
+  "waypoints": [
+    2,
+    5,
+    8,
+    11,
+    13,
+    15
+  ],
+  "n_permutations": 720,
+  "optimal_cost": 59.2029,
+  "results": [
+    {
+      "algorithm": "QPSO",
+      "n_runs": 10,
+      "cost_mean": 61.8023,
+      "cost_std": 3.9706,
+      "runtime_ms_mean": 960.198,
+      "runtime_ms_std": 41.982,
+      "optimality_gap_pct": 4.39
+    },
+    {
+      "algorithm": "Classical PSO",
+      "n_runs": 10,
+      "cost_mean": 63.5352,
+      "cost_std": 4.3323,
+      "runtime_ms_mean": 934.867,
+      "runtime_ms_std": 39.729,
+      "optimality_gap_pct": 7.32
+    },
+    {
+      "algorithm": "GA",
+      "n_runs": 10,
+      "cost_mean": 64.7695,
+      "cost_std": 4.7757,
+      "runtime_ms_mean": 907.586,
+      "runtime_ms_std": 36.596,
+      "optimality_gap_pct": 9.4
+    }
+  ]
+}

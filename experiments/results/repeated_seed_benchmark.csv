@@ -1,0 +1,6 @@
+algorithm,n_runs,cost_mean,cost_std,runtime_ms_mean,runtime_ms_std
+QPSO,10,16.2887,0.0,209.776,22.529
+Classical PSO,10,16.2887,0.0,171.219,19.716
+GA,10,16.2887,0.0,174.812,21.487
+Dijkstra,1,16.2887,0.0,0.58,0.0
+A*,1,16.2887,0.0,0.356,0.0

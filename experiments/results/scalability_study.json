@@ -1,0 +1,177 @@
+[
+  {
+    "nodes": 10,
+    "algorithm": "Dijkstra",
+    "runtime_ms": 0.268,
+    "cost": 14.2563,
+    "n_runs": 1
+  },
+  {
+    "nodes": 10,
+    "algorithm": "A*",
+    "runtime_ms": 0.125,
+    "cost": 14.2563,
+    "n_runs": 1
+  },
+  {
+    "nodes": 10,
+    "algorithm": "QPSO",
+    "runtime_ms": 148.234,
+    "cost": 14.2563,
+    "n_runs": 3
+  },
+  {
+    "nodes": 10,
+    "algorithm": "Classical PSO",
+    "runtime_ms": 124.317,
+    "cost": 14.2563,
+    "n_runs": 3
+  },
+  {
+    "nodes": 10,
+    "algorithm": "GA",
+    "runtime_ms": 129.944,
+    "cost": 14.2563,
+    "n_runs": 3
+  },
+  {
+    "nodes": 20,
+    "algorithm": "Dijkstra",
+    "runtime_ms": 0.176,
+    "cost": 22.8866,
+    "n_runs": 1
+  },
+  {
+    "nodes": 20,
+    "algorithm": "A*",
+    "runtime_ms": 0.198,
+    "cost": 22.8866,
+    "n_runs": 1
+  },
+  {
+    "nodes": 20,
+    "algorithm": "QPSO",
+    "runtime_ms": 271.489,
+    "cost": 22.8866,
+    "n_runs": 3
+  },
+  {
+    "nodes": 20,
+    "algorithm": "Classical PSO",
+    "runtime_ms": 223.915,
+    "cost": 22.8866,
+    "n_runs": 3
+  },
+  {
+    "nodes": 20,
+    "algorithm": "GA",
+    "runtime_ms": 201.981,
+    "cost": 22.9134,
+    "n_runs": 3
+  },
+  {
+    "nodes": 30,
+    "algorithm": "Dijkstra",
+    "runtime_ms": 0.215,
+    "cost": 25.0792,
+    "n_runs": 1
+  },
+  {
+    "nodes": 30,
+    "algorithm": "A*",
+    "runtime_ms": 0.243,
+    "cost": 25.0792,
+    "n_runs": 1
+  },
+  {
+    "nodes": 30,
+    "algorithm": "QPSO",
+    "runtime_ms": 398.915,
+    "cost": 25.0792,
+    "n_runs": 3
+  },
+  {
+    "nodes": 30,
+    "algorithm": "Classical PSO",
+    "runtime_ms": 319.789,
+    "cost": 25.0792,
+    "n_runs": 3
+  },
+  {
+    "nodes": 30,
+    "algorithm": "GA",
+    "runtime_ms": 295.566,
+    "cost": 25.0792,
+    "n_runs": 3
+  },
+  {
+    "nodes": 40,
+    "algorithm": "Dijkstra",
+    "runtime_ms": 0.25,
+    "cost": 27.6156,
+    "n_runs": 1
+  },
+  {
+    "nodes": 40,
+    "algorithm": "A*",
+    "runtime_ms": 0.346,
+    "cost": 27.6156,
+    "n_runs": 1
+  },
+  {
+    "nodes": 40,
+    "algorithm": "QPSO",
+    "runtime_ms": 518.426,
+    "cost": 27.6156,
+    "n_runs": 3
+  },
+  {
+    "nodes": 40,
+    "algorithm": "Classical PSO",
+    "runtime_ms": 437.037,
+    "cost": 27.6156,
+    "n_runs": 3
+  },
+  {
+    "nodes": 40,
+    "algorithm": "GA",
+    "runtime_ms": 439.795,
+    "cost": 27.9702,
+    "n_runs": 3
+  },
+  {
+    "nodes": 50,
+    "algorithm": "Dijkstra",
+    "runtime_ms": 0.359,
+    "cost": 35.295,
+    "n_runs": 1
+  },
+  {
+    "nodes": 50,
+    "algorithm": "A*",
+    "runtime_ms": 0.397,
+    "cost": 35.295,
+    "n_runs": 1
+  },
+  {
+    "nodes": 50,
+    "algorithm": "QPSO",
+    "runtime_ms": 686.131,
+    "cost": 35.295,
+    "n_runs": 3
+  },
+  {
+    "nodes": 50,
+    "algorithm": "Classical PSO",
+    "runtime_ms": 556.361,
+    "cost": 35.3223,
+    "n_runs": 3
+  },
+  {
+    "nodes": 50,
+    "algorithm": "GA",
+    "runtime_ms": 563.851,
+    "cost": 35.857,
+    "n_runs": 3
+  }
+]
